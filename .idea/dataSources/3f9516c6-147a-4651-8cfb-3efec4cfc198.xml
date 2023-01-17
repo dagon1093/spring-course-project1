@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="elib_db@localhost">
-  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.32">
+  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.39">
     <root id="1">
       <DateStyle>mdy</DateStyle>
       <IntrospectionStateNumber>838</IntrospectionStateNumber>
@@ -4887,15 +4887,15 @@ sequence|table|24610|24611|1
       <RefTableKind>table</RefTableKind>
     </foreign-key>
     <index id="273" parent="265" name="book_pkey">
-      <ClassIds>1978</ClassIds>
       <ColNames>id</ColNames>
-      <CollationIds>0</CollationIds>
       <NameSurrogate>1</NameSurrogate>
       <ObjectId>24614</ObjectId>
       <Primary>1</Primary>
       <StateNumber>836</StateNumber>
       <Unique>1</Unique>
       <AccessMethodId>403</AccessMethodId>
+      <ClassIds>1978</ClassIds>
+      <CollationIds>0</CollationIds>
     </index>
     <key id="274" parent="265" name="book_pkey">
       <ColNames>id</ColNames>
@@ -4926,26 +4926,26 @@ sequence|table|24610|24611|1
       <TypeId>1043</TypeId>
     </column>
     <index id="278" parent="266" name="person_pkey">
-      <ClassIds>1978</ClassIds>
       <ColNames>id</ColNames>
-      <CollationIds>0</CollationIds>
       <NameSurrogate>1</NameSurrogate>
       <ObjectId>16393</ObjectId>
       <Primary>1</Primary>
       <StateNumber>740</StateNumber>
       <Unique>1</Unique>
       <AccessMethodId>403</AccessMethodId>
+      <ClassIds>1978</ClassIds>
+      <CollationIds>0</CollationIds>
     </index>
     <index id="279" parent="266" name="person_name_key">
-      <ClassIds>3126</ClassIds>
       <ColNames>name</ColNames>
-      <CollationIds>100</CollationIds>
-      <CollationNames>default</CollationNames>
       <NameSurrogate>1</NameSurrogate>
       <ObjectId>16395</ObjectId>
       <StateNumber>740</StateNumber>
       <Unique>1</Unique>
       <AccessMethodId>403</AccessMethodId>
+      <ClassIds>3126</ClassIds>
+      <CollationNames>default</CollationNames>
+      <CollationIds>100</CollationIds>
     </index>
     <key id="280" parent="266" name="person_pkey">
       <ColNames>id</ColNames>

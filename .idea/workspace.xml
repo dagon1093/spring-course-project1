@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1bce1c-a468-44c5-858d-e99aab424838" name="Changes" comment="project1" />
+    <list default="true" id="0b1bce1c-a468-44c5-858d-e99aab424838" name="Changes" comment="project1">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3f9516c6-147a-4651-8cfb-3efec4cfc198.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3f9516c6-147a-4651-8cfb-3efec4cfc198.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/BookController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,20 +48,11 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="postgresql" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javaProjects\spring-course-project1\spring-course-project1\src\main\webapp\WEB-INF\views\books" />
@@ -164,7 +160,9 @@
       <workItem from="1673021691378" duration="10277000" />
       <workItem from="1673037887429" duration="24001000" />
       <workItem from="1673212972852" duration="3523000" />
-      <workItem from="1673260553673" duration="4531000" />
+      <workItem from="1673260553673" duration="6831000" />
+      <workItem from="1673601309996" duration="2000" />
+      <workItem from="1673638928163" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="project1">
       <created>1673265191252</created>
